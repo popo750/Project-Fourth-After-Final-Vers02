@@ -321,20 +321,21 @@ h1 {
 .bgc-atomic-tangerine {
     /* Old color No conform for ratio contrast WCAG 2.1 */
     /* background-color: #f3976c; */
-    /* New color conform for ratio contrast WCAG 2.1 */
-    background-color: #3D5F26;
+    /* New color No conform for ratio contrast WCAG 2.1 */
+    background-color: #A12F00; 
 }
 
 .tc-white {
     /* Old color No conform for ratio contrast WCAG 2.1 */
     /* color: #f3976c !important; */
     /* New color conform for ratio contrast WCAG 2.1 */
-    color: #FFFF00 !important;
+    color: #FFE5B2 !important;
 }
 
 .btn-atomic-tangerine {
     /* background: #f3976c; */
-    background: #B40000;
+    /* New color No conform for ratio contrast WCAG 2.1 */
+    background-color: #A12F00;
     /* Old color No conform for ratio contrast WCAG 2.1 */
     color: #fff !important;
     /* New color conform for ratio contrast WCAG 2.1 */
@@ -343,7 +344,7 @@ h1 {
 
 .btn-atomic-tangerine:hover {
     /* background: #c27956 !important; */
-    background: #A42557 !important;
+    background: #B40000 !important;
      color: #fff !important;
     /* New color conform for ratio contrast WCAG 2.1 */
     /* color: #000060 !important; */

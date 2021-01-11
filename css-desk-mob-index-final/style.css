@@ -519,18 +519,17 @@ h1 {
 }
 
 .btn-atomic-tangerine {
-    background: #f3976c;
     /* Old color No conform for ratio contrast WCAG 2.1 */
-    /* color: #fff !important; */
-    /* New color conform for ratio contrast WCAG 2.1 */
-    color: #000060 !important; 
+    /* background: #f3976c; */
+    /* New color No conform for ratio contrast WCAG 2.1 */
+    background-color: #A12F00;
+    /* Old color No conform for ratio contrast WCAG 2.1 */
+    color: #fff !important; 
 }
 
 .btn-atomic-tangerine:hover {
      background: #c27956 !important;
-     /* color: #fff !important; */
-    /* New color conform for ratio contrast WCAG 2.1 */
-    color: #000060 !important;
+     color: #fff !important; 
 }
 
 .ltc-white {
@@ -563,13 +562,13 @@ h1 {
 }
 
 .collaborateur {
-    color:#480C21; 
+    color:#ffffd0; 
 }
 
 .collaborateur:hover,
 .collaborateur:visited
  {
-    color: #261D47;
+    color: #FFFF9F;
 } 
 
 /* ajout perso : mode tv */
