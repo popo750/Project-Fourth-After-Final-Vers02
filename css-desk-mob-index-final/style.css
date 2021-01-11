@@ -528,7 +528,10 @@ h1 {
 }
 
 .btn-atomic-tangerine:hover {
-     background: #c27956 !important;
+    /* Old color No conform for ratio contrast WCAG 2.1 */
+    /* background: #c27956 !important; */
+    /* New color No conform for ratio contrast WCAG 2.1 */
+    background: #8A2F00 !important;
      color: #fff !important; 
 }
 
