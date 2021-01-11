@@ -506,33 +506,31 @@ h1 {
 
 .bgc-atomic-tangerine {
     /* Old color No conform for ratio contrast WCAG 2.1 */
-    /* background-color: #f3976c; */
-    /* New color conform for ratio contrast WCAG 2.1 */
-    background-color: #3D5F26;
+    /*background-color: #f3976c; */
+    /* New color No conform for ratio contrast WCAG 2.1 */
+    background-color: #A12F00; 
 }
 
 .tc-white {
     /* Old color No conform for ratio contrast WCAG 2.1 */
-    /* color: #f3976c !important; */
+     /*color: #f3976c !important; */
     /* New color conform for ratio contrast WCAG 2.1 */
-    color: #FFFF00 !important;
+    color: #FFE5B2 !important;
 }
 
 .btn-atomic-tangerine {
-    /* background: #f3976c; */
-    background: #B40000;
+    background: #f3976c;
     /* Old color No conform for ratio contrast WCAG 2.1 */
-    color: #fff !important;
+    /* color: #fff !important; */
     /* New color conform for ratio contrast WCAG 2.1 */
-    /* color: #000060 !important; */
+    color: #000060 !important; 
 }
 
 .btn-atomic-tangerine:hover {
-    /* background: #c27956 !important; */
-    background: #A42557 !important;
-     color: #fff !important;
+     background: #c27956 !important;
+     /* color: #fff !important; */
     /* New color conform for ratio contrast WCAG 2.1 */
-    /* color: #000060 !important; */
+    color: #000060 !important;
 }
 
 .ltc-white {
@@ -565,13 +563,13 @@ h1 {
 }
 
 .collaborateur {
-    color: #FFFFD0; 
+    color:#480C21; 
 }
 
 .collaborateur:hover,
 .collaborateur:visited
  {
-    color: #FFFF9F;
+    color: #261D47;
 } 
 
 /* ajout perso : mode tv */
